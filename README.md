@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Open [https://todo-app-9c830.web.app/](https://todo-app-9c830.web.app/) to view it in the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
